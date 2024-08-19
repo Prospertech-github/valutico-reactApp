@@ -1,8 +1,14 @@
-# React + Vite
+# The Valutico App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This webpage was built using React + Vite Framework.
+It was developed with reference to a Figma design which can be found here [here](https://www.figma.com/design/lkNm0iNJONhsObqVIbfVRy/Vaultico?node-id=0-1&t=Ez56E3vYeTapNyAh-0)
 
-Currently, two official plugins are available:
+This project was also hosted on Vercel and can be viewed [here](https://valutico-react-app.vercel.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Improvements
+Note: This page is yet to be made responsive for all devices. This is a futuristic plan. Also, other pages for the webpage will be included.
+
+## Using the app
+To use the project or work on it, you can fork the repository and clone it to your machine.
+
+### Best Regards 👍🏽👍🏽
